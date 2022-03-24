@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 
-Just a Computer Engineering student on his path to lead an interesting and successful life as an engineer.
+Keyboard sounds are my fuel.
