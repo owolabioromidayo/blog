@@ -3,6 +3,7 @@ layout: post
 title:  "Finding the Number of Edges in a Complete Graph"
 date:   2021-05-19 10:00:00
 blurb: "..."
+category: "Math"
 ---
 
 **What is a complete graph?** <br/>
